@@ -1,0 +1,1 @@
+This repository contains a simple Python program with a common syntax error: an unclosed parenthesis in a function definition.  The bug demonstrates how this seemingly small error can halt execution. A solution is provided which shows the correct syntax.
